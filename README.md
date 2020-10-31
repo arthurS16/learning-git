@@ -19,3 +19,12 @@ Colocando uma imagem no readme:
 | ![madeira da selva descascada](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/c/c2/Madeira_de_Pinheiro_Descascada.png/revision/latest/scale-to-width-down/150?cb=20181105013832)           | madeira da selva descascada    |
 | ![madeira de acacia](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/3/30/Madeira_de_Ac%C3%A1cia.png/revision/latest/scale-to-width-down/150?cb=20181105011526)                             | madeira de acacia              |
 | ![madeira de pinheiro](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/a/ad/Madeira_de_Pinheiro.png/revision/latest/scale-to-width-down/150?cb=20181105011023)                              | madeira de pinheiro            |
+
+## Animais do minecraft
+
+| Foto                                                                                                                                                                                                                                                                         | Nome   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| ![pig](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/3/30/Pig.png/revision/latest/scale-to-width-down/150?cb=20191027181458https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/b/b6/Babypig.png/revision/latest/scale-to-width-down/88?cb=201) | Pig    |
+| ![cow](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/8/84/Cow.png/revision/latest/scale-to-width-down/150?cb=20190716001931)                                                                                                                               | Cow    |
+| ![panda](https://static.wikia.nocookie.net/minecraft_br_gamepedia/images/0/00/Panda.png/revision/latest/scale-to-width-down/280?cb=20181020130911)                                                                                                                           | Panda  |
+| ![chiken](https://static.wikia.nocookie.net/minecraft_gamepedia/images/2/2c/Chicken_JE2_BE2.png/revision/latest/scale-to-width-down/150?cb=20190721103652)                                                                                                                   | Chiken |
